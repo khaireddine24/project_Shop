@@ -1,0 +1,22 @@
+-pour lancer le projet en utilisant le commande cli ng serve.
+cd magasin
+ng serve
+
+-pour connecter il faut saisir l'information de l'admin ou l'utilisateur et de comprendre comment fonctionne l'application.
+
+-compte administrateur-
+Login:admin@gmail.com
+Mot de passe:123
+
+-compte utilisateur-
+Login:ihrissanek@gmail.com
+Mot de passe:azerty
+
+-->les options de cette application magasin sont les suivants:
++Ajouter un Article
++Modifier un article
++Lister les articles ou Les catégories
++Filtrer la liste des articles par libelle ou catégorie
++Authentifier et Connecter à un compte avec HttpClient
+ 
+
